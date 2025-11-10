@@ -1,0 +1,1 @@
+print("amar matha nosto")
